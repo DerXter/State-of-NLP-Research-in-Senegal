@@ -1,15 +1,15 @@
-# Opportunities and Challenges of Natural Language Processing for Low-Resource __Senegalese__ Languages in Social Science Research 🇸🇳 cf [Journal Paper]()
+# Opportunities and Challenges of Natural Language Processing for Low-Resource __Senegalese__ Languages in Social Science Research 🇸🇳 cf [Survey Paper]()
 
-This work presents a comprehensive survey of natural language processing (NLP) for six major Senegalese national languages: `Wolof`, `Pulaar`, `Sérère`, `Mandingue`, `Soninké`, and `Diola`. We provide an overview of the current state of research across key NLP tasks and highlight persistent challenges related to data scarcity, orthographic variation, and linguistic diversity. In addition, we introduce this centralized and openly accessible repository that compiles existing datasets, benchmarks, and tools available for these languages. The repository is designed as a __living resource to be periodically expanded through community contributions__. Our objective is to map existing efforts, identify critical research gaps, and encourage the development of sustainable, inclusive NLP research for Senegal’s national languages.
+This work presents a comprehensive survey of natural language processing (NLP) for six major Senegalese national languages: `Wolof`, `Pulaar`, `Sereer`, `Mandinka`, `Soninké`, and `Joola`. We provide an overview of the current state of research across key NLP tasks and highlight persistent challenges related to data scarcity, orthographic variation, and linguistic diversity. In addition, we introduce this centralized and openly accessible repository that compiles existing datasets, benchmarks, and tools available for these languages. The repository is designed as a __living resource to be periodically expanded through community contributions__. Our objective is to map existing efforts, identify critical research gaps, and encourage the development of sustainable, inclusive NLP research for Senegal’s national languages.
 
 If you are interested in the state of the art of NLP research in **African languages more broadly**, you can take a look at this [comprehensive, two-decade survey of AfricaNLP research (2005–2025), analyzing publications, authors, affiliations, supporters, NLP topics, and tasks](https://arxiv.org/abs/2509.25477v3). The major linguistic and sociopolitical challenges that hinder the development of NLP technologies for African languages are discussed in this [Afrocentric NLP paper](https://arxiv.org/abs/2203.08351).
 
 ## Taxonomy
-We drew inspiration from the taxonomy proposed in the [Awesome AI Papers](https://github.com/aimerou/awesome-ai-papers/) repository to propose this one. We chose subjective limits in terms of number of citations and use a set of **icons** to highlight which paper meets which criteria.
+We drew inspiration from the taxonomy proposed in the [Awesome AI Papers repository](https://github.com/aimerou/awesome-ai-papers/) to propose this one. We chose subjective limits in terms of `number of citations` and use a set of **icons** to highlight which paper meets which criteria.
 
 ⭐ `Important Paper` : more than 50 citations and state of the art results.
 
-⏫ `Trend` : 1 to 50 citations, recent and innovative paper with growing adoption.
+⏫ `Trend` : 1 to 50 citations, innovative paper with growing adoption.
 
 📰 `Important Article` : decisive work that was not accompanied by a research paper.
 
@@ -20,17 +20,19 @@ An added 🔐 icons means that no open version (`locked access`) for this articl
 
 Finally, we added the 🇫🇷 icon to highlight papers written in French.
 
-> A paper may also appear in multiple sections if it covers various domains, tasks, and/or modalities.
+> A paper may also appear in multiple sections if it covers various domains, tasks, and/or modalities. If you need access to some of the locked papers, feel free to reach out at `derguenembaye[at]esp[dot]sn`.
 
 ----
 
 ## Datasets 🔃
-- [This repository](https://github.com/WolofProcessing/online_wolof_data) tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on Senegalese languages.
+- The [Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data) repository tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on the `Wolof` language.
+- We extended this Wolof repository to the `other 05 national languages` in the [Datasets](Datasets.md) file.
 
-## NLP Tools 🔃
+## NLP Tools
 |Name|Covered tasks |Languages supported|
 |----------|-----------|----------------|
-|[Stanza](https://stanfordnlp.github.io/stanza/) ([Qi et al., 2020](https://arxiv.org/abs/2003.07082))    | Part-Of-Speech (POS) and Morphological features tagging dependency parsing| Wolof    | 
+|[Wolof keyboards](https://github.com/srheal/Wol_Keyboards) | Keyboards for MacOS, Android and Apple mobile | Wolof    |
+|[Stanza](https://stanfordnlp.github.io/stanza/) ([Qi et al., 2020](https://arxiv.org/abs/2003.07082))    | Part-Of-Speech (POS) and Morphological features tagging dependency parsing| Wolof    |
 |[MorphScore](https://github.com/catherinearnett/morphscore) ([Arnett et al., 2025](https://arxiv.org/abs/2507.06378))    |   Morphological alignment evaluation      |   Wolof     |
 |[Wolof](https://github.com/abdouaziz/wolof)| *Fill_mask* (Masked Language Modeling)|   Wolof             |
 |[Common Voice](https://commonvoice.mozilla.org/wo) ([Ardila et al., 2019](https://arxiv.org/abs/1912.06670)) , [DVoice](https://www.dvoice.africa/) ([Allak et al., 2021](https://www.semanticscholar.org/paper/Dialectal-Voice-%3A-An-Open-Source-Voice-Dataset-and-Allak-Mohamed/3f70a1d61d324f3ca199e9089a1344021f74332e))    |   Speech Data Collection      |   Wolof    |
@@ -61,8 +63,8 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⏫🌐 07/2025: [Evaluating Morphological Alignment of Tokenizers in 70 Languages](https://arxiv.org/abs/2507.06378)
 
 ### Language Identification
-- ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744) 🔃
-- ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/) 🔃
+- ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
+- ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
 
 ### Token Classification
 
@@ -77,7 +79,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 ### Text Classification
 
 #### Opinion Mining / Sentiment Analysis
-- ⏫🔐 06/2018: [A Novel Term Weighting Scheme Model](https://dl.acm.org/doi/10.1145/3233347.3233374)
+- ⏫ 06/2018: [A Novel Term Weighting Scheme Model](https://dl.acm.org/doi/10.1145/3233347.3233374)
 - ⏫🔐 03/2019: [FWLSA-score: French and Wolof Lexicon-based for Sentiment Analysis](https://ieeexplore.ieee.org/document/8714667)
 - ⏫🔐 12/2019: [Improved Bilingual Sentiment Analysis Lexicon Using Word-level Trigram](https://ieeexplore.ieee.org/document/9064223)
 - ⏫🔐 07/2020: [SenOpinion: a new lexicon for opinion tagging in Senegalese news comments](https://ieeexplore.ieee.org/abstract/document/9140887)
@@ -126,8 +128,10 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰 03/2023: [Kàllaama NMT: un ensemble d'outils IA pour rendre le numérique plus inclusif en Afrique](https://youtu.be/P5PRgugOu8o?t=117)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - 📰🌐 06/2024: [110 new languages are coming to Google Translate](https://blog.google/products/translate/google-translate-new-languages-2024/)
-- 📰 12/2024: [LAfricaMobile NMT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/) 
+- 📰 12/2024: [LAfricaMobile NMT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/)
+- ⭐⏫ 02/2025: [SMOL: Professionally translated parallel data for 115 under-represented languages](https://arxiv.org/abs/2502.12301)
 - 📰🌐 11/2025: [Wolof among supported languages in DeepL](https://support.deepl.com/hc/en-us/articles/360019925219-DeepL-Translator-languages)
+- 📰 12/2025: [French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
 
 ### Question Answering and Dialogue Systems
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
@@ -136,6 +140,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰 03/2023: [Local Partnership Launches Digital Health Tool to Decrease Hypertension in Senegal](https://www.intrahealth.org/news/local-partnership-launches-digital-health-tool-decrease-hypertension-senegal)
     > More info on: https://saytutension.sante.sn.
 - ⏫🌍 05/2023: [AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://arxiv.org/abs/2305.06897)
+- ⏫🌍 07/2023: [SERENGETI: Massively Multilingual Language Models for Africa](https://aclanthology.org/2023.findings-acl.97/)
 - ⏫🌍 06/2024: [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
 - ⭐🌐 08/2024: [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://aclanthology.org/2024.acl-long.620/)
     > Wolof was the additional language in the Aya dataset that had to be excluded from training [(Üstün et al., 2024)](https://arxiv.org/abs/2402.07827).
@@ -145,9 +150,13 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰 12/2024: [AWA: Senegalese start-up's AI muse speaks in Wolof](https://www.trtafrika.com/english/article/18244712)
     > A subsequent [Awa-Milkyway](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAADONOG0B7Ul4mepy1frBb_X8AAlK0EJL-44%22%5D&keywords=milkyway&origin=FACETED_SEARCH&sid=28d) model has also been announced but not published since then.
 - 📰 01/2025: [Oolel: A High-Performing Open LLM for Wolof](https://huggingface.co/soynade-research/Oolel-v0.1)
-- ⏫🌍 06/2025: [The State of Large Language Models for African Languages: Progress and Challenges](https://arxiv.org/abs/2506.02280) 🔃 
-    > Report that AfriTeva and AfroXLMR support Wolof but it's not the case, might be a mistake.
-- ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/) 🔃
+- ⏫🌍 06/2025: [The State of Large Language Models for African Languages: Progress and Challenges](https://arxiv.org/abs/2506.02280) 
+    > Report that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
+- ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
+
+### Pre-training corpus
+- ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
+- ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
 
 ### Speech Processing
 
@@ -164,16 +173,24 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰 03/2023: [Kàllaama ASR: un ensemble d'outils IA pour rendre le numérique plus inclusif en Afrique](https://www.youtube.com/watch?v=P5PRgugOu8o&t=89s)
 - ⭐🌐 05/2023: [Scaling Speech Technology to 1,000+ Languages](https://arxiv.org/abs/2305.13516)
 - ⏫🌍 06/2023: [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili](https://arxiv.org/abs/2306.00410)
+- 📰 08/2023: [Wolof Subtitles Generator](https://github.com/lodjim/wolof-subtitle-generator)
+- 📰 11/2023: [OpenAI Whisper and Meta MMS models on fula language](https://github.com/cawoylel/windanam)
 - ⏫🌐 04/2024: [Kallaama: A Transcribed Speech Dataset about Agriculture in the Three Most Widely Spoken Languages in Senegal](https://arxiv.org/abs/2404.01991)
 - ⏫🌐 04/2024: [Africa-centric self-supervised pre-training for multilingual speech representation in a sub-saharan context](https://arxiv.org/abs/2404.02000)
+- ⏫🌐 04/2024: [Self-supervised and multilingual learning applied to the Wolof, Swahili and Fongbe](https://inria.hal.science/hal-04547298v3)
 - 📰 05/2024: [Senegalese startup Lengo brings AI to informal retailers](https://www.theafricareport.com/347968/senegalese-startup-lengo-brings-ai-to-informal-retailers/)
 - ⏫ 06/2024: [State-of-the-Art Review on Recent Trends in Automatic Speech Recognition](https://link.springer.com/chapter/10.1007/978-3-031-63999-9_11)
 - ⏫🌐🇫🇷 07/2024: [Représentation de la parole multilingue par apprentissage auto-supervisé dans un contexte subsaharien](https://aclanthology.org/2024.jeptalnrecital-jep.17/)
+- 📰 08/2024: [ASR-Africa's Collections - Fula](https://huggingface.co/collections/asr-africa/fula)
+- 📰 09/2024: [ASR-Africa's Collections - Wolof](https://huggingface.co/collections/asr-africa/wolof)
 - ⏫🌍 11/2024: [Multilingual speech recognition initiative for African languages](https://link.springer.com/article/10.1007/s41060-024-00677-9)
 - 📰 11/2024: [Orange to expand open-source AI models to African regional languages for digital inclusion](https://newsroom.orange.com/orange-to-expand-open-source-ai-models-to-african-regional-languages-for-digital-inclusion/)
 - 📰 12/2024: [LAfricaMobile STT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/)
 - 📰 01/2025: [Caytu Whosper-large-v2](https://huggingface.co/CAYTU/whosper-large-v2)
 - ⏫🌍 07/2025: [Synthetic Voice Data for Automatic Speech Recognition in African Languages](https://arxiv.org/abs/2507.17578v1)
+- 📰 09/2025: [Breaking Language Barriers in African Healthcare: Fine-Tuning Speech Recognition for Wolof and Hausa in Maternal and Reproductive Health](https://www.linkedin.com/pulse/breaking-language-barriers-african-healthcare-fine-tuning-speech-zzqze/)
+    > The poster [can be viewed here](https://drive.google.com/file/d/1Qv8Y7SV0oSJoWjktggdDOoHaXBGAFSAt/view).
+- 📰 09/2025: [Benchmarking Automatic Speech Recognition Models for African Languages](https://docs.google.com/presentation/d/1IXWl1rE2UeXTDTbU5ilQOXuL_iUaU3p7VXY0OMvECHI/edit?slide=id.p#slide=id.p)
 - ⏫ 09/2025: [WolBanking77: Wolof Banking Speech Intent Classification Dataset](https://arxiv.org/abs/2509.19271)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 - ⏫🌐 11/2025: [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/)
@@ -199,9 +216,9 @@ Since Senegal is a French-speaking country, some of the articles were written in
 ##### Speech Language Models (SLMs)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 
-### Multi-task Benchmark
-- ⏫🌐 05/2023: [XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938) 🔃
-    > Covers ASR, NER and MT on Wolof.
+### Multi-task Benchmark 🔃
+- ⏫🌐 05/2023: [XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938)
+    > Report that it covers `ASR`, `NER` and `MT` tasks for Wolof but no Wolof training data has been found in [the dataset](https://github.com/google-research/xtreme-up/) for translation.
 
 ## Citation
 
@@ -209,3 +226,5 @@ If this work was useful regarding your research, please cite the paper as:
 
 ```bibtex
 @inproceedings{To be updated}
+```
+Feel free to also leave a star 🌟️ 
