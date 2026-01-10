@@ -155,6 +155,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
 
 ### Pre-training corpus
+- ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
 
@@ -168,7 +169,6 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⏫🌐 06/2017: [Machine Assisted Analysis of Vowel Length Contrasts in Wolof](https://arxiv.org/abs/1706.00465)
 - ⭐🌐 08/2016: [Collecting Resources in Sub-Saharan African Languages for Automatic Speech Recognition: a Case Study of Wolof](https://aclanthology.org/L16-1611/)
 - ⏫🌍 04/2021: [AI4D -- African Language Program](https://arxiv.org/abs/2104.02516)
-    > Note the lack of partners commitment as a challenge.
 - 📰 06/2022: [Wav2vec 2.0 with CTC/Attention trained on DVoice Wolof (No LM)](https://huggingface.co/speechbrain/asr-wav2vec2-dvoice-wolof)
 - 📰 03/2023: [Kàllaama ASR: un ensemble d'outils IA pour rendre le numérique plus inclusif en Afrique](https://www.youtube.com/watch?v=P5PRgugOu8o&t=89s)
 - ⭐🌐 05/2023: [Scaling Speech Technology to 1,000+ Languages](https://arxiv.org/abs/2305.13516)
