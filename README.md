@@ -131,7 +131,8 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰 12/2024: [LAfricaMobile NMT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/)
 - ⭐⏫ 02/2025: [SMOL: Professionally translated parallel data for 115 under-represented languages](https://arxiv.org/abs/2502.12301)
 - 📰🌐 11/2025: [Wolof among supported languages in DeepL](https://support.deepl.com/hc/en-us/articles/360019925219-DeepL-Translator-languages)
-- 📰 12/2025: [French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
+- 📰 12/2025: [GalsenAI French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
+- 📰 12/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 
 ### Question Answering and Dialogue Systems
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
