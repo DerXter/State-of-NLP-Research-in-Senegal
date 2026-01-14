@@ -66,6 +66,10 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
 - ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
 
+### Linguistic Similarity & Cross-lingual Transfer
+- ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
+- ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
+
 ### Token Classification
 
 #### POS Tagging
@@ -160,6 +164,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
 
+
 ### Speech Processing
 
 #### Automatic Speech Recognition (ASR)
@@ -217,11 +222,10 @@ Since Senegal is a French-speaking country, some of the articles were written in
 ##### Speech Language Models (SLMs)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 
+
 ### Multi-task Benchmark & Cross-Lingual Transfer
 - ⏫🌐 05/2023: [XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938)
     > Report that it covers `ASR`, `NER` and `MT` tasks for Wolof but no Wolof training data has been found in [the dataset](https://github.com/google-research/xtreme-up/) for translation.
-- ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/) 🔃
-- ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168) 🔃
 
 
 ## Citation
