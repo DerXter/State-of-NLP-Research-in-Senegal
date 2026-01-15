@@ -1,4 +1,4 @@
-# Opportunities and Challenges of Natural Language Processing for Low-Resource __Senegalese__ Languages in Social Science Research 🇸🇳 cf [Survey Paper]()
+# Opportunities and Challenges of Natural Language Processing for Low-Resource __Senegalese__ Languages in Social Science Research 🇸🇳 cf [Survey Paper](https://www.preprints.org/manuscript/202601.1124)
 
 This work presents a comprehensive survey of natural language processing (NLP) for six major Senegalese national languages: `Wolof`, `Pulaar`, `Sereer`, `Mandinka`, `Soninké`, and `Joola`. We provide an overview of the current state of research across key NLP tasks and highlight persistent challenges related to data scarcity, orthographic variation, and linguistic diversity. In addition, we introduce this centralized and openly accessible repository that compiles existing datasets, benchmarks, and tools available for these languages. The repository is designed as a __living resource to be periodically expanded through community contributions__. Our objective is to map existing efforts, identify critical research gaps, and encourage the development of sustainable, inclusive NLP research for Senegal’s national languages.
 
@@ -233,6 +233,15 @@ Since Senegal is a French-speaking country, some of the articles were written in
 If this work was useful regarding your research, please cite the paper as:
 
 ```bibtex
-@inproceedings{To be updated}
+@article{sen-nlp-survey,
+	doi = {10.20944/preprints202601.1124.v1},
+	url = {https://doi.org/10.20944/preprints202601.1124.v1},
+	year = 2026,
+	month = {January},
+	publisher = {Preprints},
+	author = {Derguene Mbaye and Tatiana D. P. Mbengue and Madoune R. Seye and Moussa Diallo and Mamadou L. Ndiaye and Dimitri S. Adjanohoun and Djiby Sow and Cheikh S. Wade and Jean-Claude B. Munyaka and Jerome Chenal},
+	title = {Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research},
+	journal = {Preprints}
+}
 ```
 Feel free to also leave a star 🌟️ 
