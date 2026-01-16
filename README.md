@@ -137,6 +137,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - 📰🌐 11/2025: [Wolof among supported languages in DeepL](https://support.deepl.com/hc/en-us/articles/360019925219-DeepL-Translator-languages)
 - 📰 12/2025: [GalsenAI French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
 - 📰 12/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
+- 🌐⏫ 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012) 🔃
 
 ### Question Answering and Dialogue Systems
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
