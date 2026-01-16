@@ -20,7 +20,7 @@ An added 🔐 icons means that no open version (`locked access`) for this articl
 
 Finally, we added the 🇫🇷 icon to highlight papers written in French.
 
-> A paper may also appear in multiple sections if it covers various domains, tasks, and/or modalities. If you need access to some of the locked papers, feel free to reach out at `derguenembaye[at]esp[dot]sn`.
+> A paper may also appear in multiple sections if it covers various domains, tasks, and/or modalities.
 
 ----
 
@@ -42,6 +42,7 @@ Finally, we added the 🇫🇷 icon to highlight papers written in French.
 
 ## Publications
 Since Senegal is a French-speaking country, some of the articles were written in French, as evidenced by their titles and the 🇫🇷 icon. For some articles, we were also unable to find open versions highlighted by the 🔐 icon.
+> If you need access to some of the locked papers, feel free to reach out at `derguenembaye[at]esp[dot]sn`.
 
 ### Digraphs
 - ⏫ 05/2020: [Digraph of Senegal s local languages: issues, challenges and prospects of their transliteration](https://arxiv.org/abs/2005.02325)
@@ -157,7 +158,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
     > A subsequent [Awa-Milkyway](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAADONOG0B7Ul4mepy1frBb_X8AAlK0EJL-44%22%5D&keywords=milkyway&origin=FACETED_SEARCH&sid=28d) model has also been announced but not published since then.
 - 📰 01/2025: [Oolel: A High-Performing Open LLM for Wolof](https://huggingface.co/soynade-research/Oolel-v0.1)
 - ⏫🌍 06/2025: [The State of Large Language Models for African Languages: Progress and Challenges](https://arxiv.org/abs/2506.02280) 
-    > Report that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
+    > Reports that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
 - ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
 
 ### Pre-training corpus
@@ -226,7 +227,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 
 ### Multi-task Benchmark & Cross-Lingual Transfer
 - ⏫🌐 05/2023: [XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938)
-    > Report that it covers `ASR`, `NER` and `MT` tasks for Wolof but no Wolof training data has been found in [the dataset](https://github.com/google-research/xtreme-up/) for translation.
+    > Reports that it covers `ASR`, `NER` and `MT` tasks for Wolof but no Wolof training data has been found in [the dataset](https://github.com/google-research/xtreme-up/) for translation.
 
 
 ## Citation
