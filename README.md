@@ -18,7 +18,7 @@ An added 🔐 icons means that no open version (`locked access`) for this articl
 * the project leading to the paper was launched by Africans or foreigners.
     > e.g. The [MasakhaPOS](https://aclanthology.org/2023.acl-long.609/) paper has a senegalese as a first author but the overall research project has been launched by [Masakhane](https://www.masakhane.io/).
 
-Finally, we added the 🇫🇷 icon to highlight papers written in French.
+Finally, since Senegal is a French-speaking country, some of the articles were written in French. We thus added the 🇫🇷 icon to highlight those papers.
 
 > A paper may also appear in multiple sections if it covers various domains, tasks, and/or modalities.
 
@@ -39,9 +39,8 @@ Finally, we added the 🇫🇷 icon to highlight papers written in French.
 |[AfroLID](https://github.com/UBC-NLP/afrolid) ([Adebara et al., 2022](https://arxiv.org/abs/2210.11744)) , [GlotLID](https://github.com/cisnlp/GlotLID) ([Kargaran et al., 2023](https://arxiv.org/abs/2310.16248))     |   Language Identification      |   Wolof     |
 
 
-
 ## Publications
-Since Senegal is a French-speaking country, some of the articles were written in French, as evidenced by their titles and the 🇫🇷 icon. For some articles, we were also unable to find open versions highlighted by the 🔐 icon.
+For some articles, we were also unable to find open versions highlighted by the 🔐 icon.
 > If you need access to some of the locked papers, feel free to reach out at `derguenembaye[at]esp[dot]sn`.
 
 ### Digraphs
@@ -225,7 +224,7 @@ Since Senegal is a French-speaking country, some of the articles were written in
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 
 
-### Multi-task Benchmark & Cross-Lingual Transfer
+### Multi-task Benchmark
 - ⏫🌐 05/2023: [XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938)
     > Reports that it covers `ASR`, `NER` and `MT` tasks for Wolof but no Wolof training data has been found in [the dataset](https://github.com/google-research/xtreme-up/) for translation.
 
