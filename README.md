@@ -36,7 +36,7 @@ Finally, since Senegal is a French-speaking country, some of the articles were w
 |[MorphScore](https://github.com/catherinearnett/morphscore) ([Arnett et al., 2025](https://arxiv.org/abs/2507.06378))    |   Morphological alignment evaluation      |   Wolof     |
 |[Wolof](https://github.com/abdouaziz/wolof)| *Fill_mask* (Masked Language Modeling)|   Wolof             |
 |[Common Voice](https://commonvoice.mozilla.org/wo) ([Ardila et al., 2019](https://arxiv.org/abs/1912.06670)) , [DVoice](https://www.dvoice.africa/) ([Allak et al., 2021](https://www.semanticscholar.org/paper/Dialectal-Voice-%3A-An-Open-Source-Voice-Dataset-and-Allak-Mohamed/3f70a1d61d324f3ca199e9089a1344021f74332e))    |   Speech Data Collection      |   Wolof    |
-|[AfroLID](https://github.com/UBC-NLP/afrolid) ([Adebara et al., 2022](https://arxiv.org/abs/2210.11744)) , [GlotLID](https://github.com/cisnlp/GlotLID) ([Kargaran et al., 2023](https://arxiv.org/abs/2310.16248))     |   Language Identification      |   Wolof     |
+|[AfroLID](https://github.com/UBC-NLP/afrolid), [GlotLID](https://github.com/cisnlp/GlotLID), [AfroScope](https://github.com/UBC-NLP/AfroScope)  |   Language Identification      |   Wolof     |
 
 
 ## Publications
@@ -65,6 +65,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 ### Language Identification
 - ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
 - ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
+- ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
 
 ### Linguistic Similarity & Cross-lingual Transfer
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
