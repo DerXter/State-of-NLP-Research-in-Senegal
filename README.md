@@ -140,7 +140,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 11/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 - 🌐⏫ 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
 
-### Question Answering and Dialogue Systems
+### Question Answering and Dialogue Systems [+LMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
 - ⏫🇫🇷 06/2022: [Preuve de concept d’un bot vocal dialoguant en wolof (Proof-of-Concept of a Voicebot Speaking Wolof)](https://aclanthology.org/2022.jeptalnrecital-taln.40/)
 - ⭐🌍 12/2022: [AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages](https://aclanthology.org/2022.sustainlp-1.11/)
@@ -148,6 +148,7 @@ For some articles, we were also unable to find open versions highlighted by the 
     > More info on: https://saytutension.sante.sn.
 - ⏫🌍 05/2023: [AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://arxiv.org/abs/2305.06897)
 - ⏫🌍 07/2023: [SERENGETI: Massively Multilingual Language Models for Africa](https://aclanthology.org/2023.findings-acl.97/)
+- ⏫🌍 01/2024: [Cheetah: Natural Language Generation for 517 African Languages](https://aclanthology.org/2024.acl-long.691/) 🔃
 - ⏫🌍 06/2024: [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
 - ⭐🌐 08/2024: [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://aclanthology.org/2024.acl-long.620/)
     > Wolof was the additional language in the Aya dataset that had to be excluded from training [(Üstün et al., 2024)](https://arxiv.org/abs/2402.07827).
