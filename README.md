@@ -97,7 +97,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 #### Hate Speech Detection
 - ⏫🌍 06/2023: [Towards hate speech detection in low-resource languages: Comparing ASR to acoustic word embeddings on Wolof and Swahili](https://arxiv.org/abs/2306.00410)
 - ⏫ 06/2025: [Annotated tweet corpus of mixed Wolof-French for detecting obnoxious messages](https://www.sciencedirect.com/science/article/pii/S235234092500232X)
-- ⏫ 07/2025: [Comparative Study of Machine Learning Models for the Detection of Abusive Messages: Case of Wolof-French Codes Mixing Data](https://link.springer.com/chapter/10.1007/978-3-031-86493-3_20)
+- ⏫🔐 07/2025: [Comparative Study of Machine Learning Models for the Detection of Abusive Messages: Case of Wolof-French Codes Mixing Data](https://link.springer.com/chapter/10.1007/978-3-031-86493-3_20)
 - ⏫ 09/2025: [AbuseBERT-WoFr: refined BERT model for detecting abusive messages on tweets mixing Wolof-French codes](https://hal.science/hal-05249237v1/file/Proceedings%2520of%2520Digital%2520Avenues%2520for%2520Low-Resource%2520Languages%2520of%2520Sub-Saharan%2520Africa%2520%2528DASSA%25E2%2580%25992025%2529.pdf)
     > `Page 10` of the _Proceedings of Digital Avenues for Low-Resource Languages of Sub-Saharan Africa (DASSA’2025)_.
 
@@ -140,9 +140,10 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 11/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 - 🌐⏫ 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
 
-### Question Answering and Dialogue Systems [+LMs]
+### Question Answering and Dialogue Systems [+LLMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
 - ⏫🇫🇷 06/2022: [Preuve de concept d’un bot vocal dialoguant en wolof (Proof-of-Concept of a Voicebot Speaking Wolof)](https://aclanthology.org/2022.jeptalnrecital-taln.40/)
+- ⭐🌐 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) 🔃
 - ⭐🌍 12/2022: [AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages](https://aclanthology.org/2022.sustainlp-1.11/)
 - 📰 03/2023: [Local Partnership Launches Digital Health Tool to Decrease Hypertension in Senegal](https://www.intrahealth.org/news/local-partnership-launches-digital-health-tool-decrease-hypertension-senegal)
     > More info on: https://saytutension.sante.sn.
@@ -153,14 +154,17 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⭐🌐 08/2024: [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://aclanthology.org/2024.acl-long.620/)
     > Wolof was the additional language in the Aya dataset that had to be excluded from training [(Üstün et al., 2024)](https://arxiv.org/abs/2402.07827).
 - ⏫🌐 08/2024: [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://aclanthology.org/2024.acl-long.44/)
+- ⏫🌐 08/2024: [Goldfish: Monolingual Language Models for 350 Languages](https://arxiv.org/abs/2408.10441) 🔃
 - ⏫ 01/2025: [Task-Oriented Dialog Systems for the Senegalese Wolof Language](https://aclanthology.org/2025.coling-main.322/)
 - ⏫🌐🔐 01/2025: [A Comprehensive Von Willebrand Disease Awareness and Support Chatbot for Senegalese Communities](https://ieeexplore.ieee.org/abstract/document/10992905)
 - 📰 12/2024: [AWA: Senegalese start-up's AI muse speaks in Wolof](https://www.trtafrika.com/english/article/18244712)
     > A subsequent [Awa-Milkyway](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAADONOG0B7Ul4mepy1frBb_X8AAlK0EJL-44%22%5D&keywords=milkyway&origin=FACETED_SEARCH&sid=28d) model has also been announced but not published since then.
 - 📰 01/2025: [Oolel: A High-Performing Open LLM for Wolof](https://huggingface.co/soynade-research/Oolel-v0.1)
+- ⏫🌐 04/2025: [MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768) 🔃
 - ⏫🌍 06/2025: [The State of Large Language Models for African Languages: Progress and Challenges](https://arxiv.org/abs/2506.02280) 
     > Reports that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
 - ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
+- ⏫🌐 09/2025: [MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning](https://arxiv.org/abs/2509.08105) 🔃
 
 ### Pre-training corpus
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
