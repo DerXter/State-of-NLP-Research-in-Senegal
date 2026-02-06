@@ -67,7 +67,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
 - ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
 
-### Linguistic Similarity & Cross-lingual Transfer
+### Linguistic Similarity & Cross-Lingual Transfer
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
 - ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
 
@@ -207,6 +207,8 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 09/2025: [WolBanking77: Wolof Banking Speech Intent Classification Dataset](https://arxiv.org/abs/2509.19271)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 - ⏫🌐 11/2025: [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/)
+- 📰🌐 12/2025: [Free Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof) 🔃
+- 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench) 🔃
 
 #### Speech Synthesis / Text To Speech (TTS)
 - ⏫ 04/2011: [Speech Recognition and Text-to-speech Solution for Vernacular Languages](https://personales.upv.es/thinkmind/dl/conferences/icdt/icdt_2011/icdt_2011_3_30_20061.pdf)
