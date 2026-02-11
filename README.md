@@ -148,6 +148,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 03/2023: [Local Partnership Launches Digital Health Tool to Decrease Hypertension in Senegal](https://www.intrahealth.org/news/local-partnership-launches-digital-health-tool-decrease-hypertension-senegal)
     > More info on: https://saytutension.sante.sn.
 - ⏫🌍 05/2023: [AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://arxiv.org/abs/2305.06897)
+- ⏫ 06/2023: [Design, development and usability of an educational AI chatbot for People with Haemophilia in Senegal](https://onlinelibrary.wiley.com/doi/10.1111/hae.14815) 🔃
 - ⏫🌍 07/2023: [SERENGETI: Massively Multilingual Language Models for Africa](https://aclanthology.org/2023.findings-acl.97/)
 - ⏫🌍 01/2024: [Cheetah: Natural Language Generation for 517 African Languages](https://aclanthology.org/2024.acl-long.691/) 🔃
 - ⏫🌍 06/2024: [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
