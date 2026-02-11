@@ -208,7 +208,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 09/2025: [WolBanking77: Wolof Banking Speech Intent Classification Dataset](https://arxiv.org/abs/2509.19271)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 - ⏫🌐 11/2025: [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/)
-- 📰🌐 12/2025: [Free Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof) 🔃
+- 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof) 🔃
 - 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench) 🔃
 
 #### Speech Synthesis / Text To Speech (TTS)
