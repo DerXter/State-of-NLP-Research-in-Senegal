@@ -152,6 +152,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌍 07/2023: [SERENGETI: Massively Multilingual Language Models for Africa](https://aclanthology.org/2023.findings-acl.97/)
 - ⏫🌍 01/2024: [Cheetah: Natural Language Generation for 517 African Languages](https://aclanthology.org/2024.acl-long.691/) 🔃
 - ⏫🌍 06/2024: [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
+- ⏫🌐 06/2024: [Fumbling in Babel: An Investigation into ChatGPT’s Language Identification Ability](https://aclanthology.org/2024.findings-naacl.274/) 🔃
 - ⭐🌐 08/2024: [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://aclanthology.org/2024.acl-long.620/)
     > Wolof was the additional language in the Aya dataset that had to be excluded from training [(Üstün et al., 2024)](https://arxiv.org/abs/2402.07827).
 - ⏫🌐 08/2024: [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://aclanthology.org/2024.acl-long.44/)
