@@ -68,6 +68,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
 
 ### Linguistic Similarity & Cross-Lingual Transfer
+- ⭐🌐 11/2020: [Extending Multilingual BERT to Low-Resource Languages](https://aclanthology.org/2020.findings-emnlp.240/) 🔃
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
 - ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
 
