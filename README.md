@@ -225,6 +225,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 12/2024: [LAfricaMobile TTS](https://lafricamobile.com/en/produit-tts/)
 - 📰 02/2025: [Adia_TTS Wolof](https://huggingface.co/CONCREE/Adia_TTS)
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
+- 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices) 🔃
 
 #### Spoken Dialogue Systems
 ##### Spoken Language Understanding (SLU)
