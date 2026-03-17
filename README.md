@@ -72,6 +72,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
 - ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
 - ⏫ 02/2026: [Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1) 🔃
+- ⏫🌐 03/2026: [Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech](https://ai.meta.com/research/publications/omnilingual-sonar-cross-lingual-and-cross-modal-sentence-embeddings-bridging-massively-multilingual-text-and-speech/) 🔃
 
 ### Token Classification
 
@@ -142,6 +143,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 11/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 - 🌐⏫ 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
 - 🌐⏫ 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://openreview.net/forum?id=hVJZNUZBur) 🔃
+- ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/) 🔃
 
 ### Question Answering and Dialogue Systems [+LLMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
