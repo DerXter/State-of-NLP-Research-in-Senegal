@@ -142,7 +142,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 12/2025: [GalsenAI French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
 - 📰 11/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 - ⏫🌐 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
-- ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://openreview.net/forum?id=hVJZNUZBur) 🔃
+- ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://aclanthology.org/2026.africanlp-main.30/) 🔃
 - ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/) 🔃
 
 ### Question Answering and Dialogue Systems [+LLMs]
