@@ -120,7 +120,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 05/2024: [Advancing language diversity and inclusion: Towards a neural network-based spell checker and correction for wolof](https://aclanthology.org/2024.rail-1.16/)
 - ⏫ 07/2024: [Beqi: Revitalize the senegalese wolof language with a robust spelling corrector](https://arxiv.org/pdf/2305.08518)
 - 📰🇫🇷 09/2025: [SenTermino - Banque Terminologique Scientifique du Sénégal](https://sentermino.com/fr/)
-- 📰 01/2026: [Soynade Research: Wolof-Non-Standard-Orthography Dataset](https://huggingface.co/datasets/soynade-research/Wolof-Non-Standard-Orthography) 🔃
+- 📰 04/2026: [Soynade Research: Oolel Wolof Spelling Corrector](https://huggingface.co/soynade-research/Oolel-Corrector) 🔃
 
 ### Machine Translation
 - ⏫ 03/2020: [Using LSTM Networks to Translate French to Senegalese Local Languages: Wolof as a Case Study](https://arxiv.org/abs/2004.13840)
