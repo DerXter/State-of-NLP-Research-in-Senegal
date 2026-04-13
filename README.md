@@ -120,7 +120,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 05/2024: [Advancing language diversity and inclusion: Towards a neural network-based spell checker and correction for wolof](https://aclanthology.org/2024.rail-1.16/)
 - ⏫ 07/2024: [Beqi: Revitalize the senegalese wolof language with a robust spelling corrector](https://arxiv.org/pdf/2305.08518)
 - 📰🇫🇷 09/2025: [SenTermino - Banque Terminologique Scientifique du Sénégal](https://sentermino.com/fr/)
-- 📰 01/2026:[Soynade Research: Wolof-Non-Standard-Orthography Dataset](https://huggingface.co/datasets/soynade-research/Wolof-Non-Standard-Orthography) 🔃
+- 📰 01/2026: [Soynade Research: Wolof-Non-Standard-Orthography Dataset](https://huggingface.co/datasets/soynade-research/Wolof-Non-Standard-Orthography) 🔃
 
 ### Machine Translation
 - ⏫ 03/2020: [Using LSTM Networks to Translate French to Senegalese Local Languages: Wolof as a Case Study](https://arxiv.org/abs/2004.13840)
@@ -230,6 +230,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 02/2025: [Adia_TTS Wolof](https://huggingface.co/CONCREE/Adia_TTS)
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
 - 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices) 🔃
+- ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v1) 🔃
 
 #### Spoken Dialogue Systems
 ##### Spoken Language Understanding (SLU)
