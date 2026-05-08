@@ -36,7 +36,7 @@ Finally, since Senegal is a French-speaking country, some of the articles were w
 |[MorphScore](https://github.com/catherinearnett/morphscore) ([Arnett et al., 2025](https://arxiv.org/abs/2507.06378))    |   Morphological alignment evaluation      |   Wolof     |
 |[Wolof](https://github.com/abdouaziz/wolof)| *Fill_mask* (Masked Language Modeling)|   Wolof             |
 |[Common Voice](https://commonvoice.mozilla.org/wo) ([Ardila et al., 2019](https://arxiv.org/abs/1912.06670)) , [DVoice](https://www.dvoice.africa/) ([Allak et al., 2021](https://www.semanticscholar.org/paper/Dialectal-Voice-%3A-An-Open-Source-Voice-Dataset-and-Allak-Mohamed/3f70a1d61d324f3ca199e9089a1344021f74332e))    |   Speech Data Collection      |   Wolof    |
-|[AfroLID](https://github.com/UBC-NLP/afrolid), [GlotLID](https://github.com/cisnlp/GlotLID), [AfroScope](https://github.com/UBC-NLP/AfroScope)  |   Language Identification      |   Wolof     |
+|[AfroLID](https://github.com/UBC-NLP/afrolid), [GlotLID](https://github.com/cisnlp/GlotLID), [AfroScope](https://github.com/UBC-NLP/AfroScope), [CommonLingua](https://huggingface.co/PleIAs/CommonLingua)  |   Language Identification      |   Wolof     |
 
 
 ## Publications
@@ -230,7 +230,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 02/2025: [Adia_TTS Wolof](https://huggingface.co/CONCREE/Adia_TTS)
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
 - 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices) 🔃
-- ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v1) 🔃
+- ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2) 🔃
 
 #### Spoken Dialogue Systems
 ##### Spoken Language Understanding (SLU)
