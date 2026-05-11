@@ -45,9 +45,22 @@ For some articles, we were also unable to find open versions highlighted by the 
 
 ### Digraphs
 - ⏫ 05/2020: [Digraph of Senegal s local languages: issues, challenges and prospects of their transliteration](https://arxiv.org/abs/2005.02325)
-- ⏫🇫🇷 05/2020: [Digraphie des langues ouest africaines : Latin2Ajami : un algorithme de translitteration automatique](https://arxiv.org/abs/2005.02827)
+- ⏫🇫🇷 05/2020: [Digraphie des langues ouest africaines: Latin2Ajami : un algorithme de translitteration automatique](https://arxiv.org/abs/2005.02827)
 - ⏫ 01/2025: [The Best of Both Worlds: Exploring Wolofal in the Context of NLP](https://aclanthology.org/2025.abjadnlp-1.1/)
 - ⏫🌐🇫🇷 06/2025: [Réhabiliter l’écriture Ajami : un levier technologique pour l’alphabétisation en Afrique](https://aclanthology.org/2025.jeptalnrecital-recital.14/)
+
+### Lexicons & Spell Checking
+- ⏫🌐🇫🇷 01/2015: [DILAF: des dictionnaires africains en ligne et une méthodologie](https://hal.science/hal-01107550)
+- ⏫🇫🇷 03/2016: [Dictionnaires wolof en ligne: État de l'art et perspectives](https://hal.science/hal-01294544)
+- ⏫🇫🇷 03/2016: [Production et mise en ligne d’un dictionnaire électronique du wolof](https://talnarchives.atala.org/ateliers/2016/TALAf/10.pdf)
+- ⏫🇫🇷 03/2016: [iBaatukaay : un projet de base lexicale multilingue contributive sur le web à structure pivot pour les langues africaines notamment sénégalaises](https://hal.science/hal-02054921)
+- ⏫🇫🇷 07/2016: [Correction orthographique pour la langue wolof: état de l'art et perspectives](http://hal.science/hal-02054917)
+- ⏫🇫🇷 09/2018: [Manipulation de dictionnaires d'origines diverses pour des langues peu dotées: la méthodologie iBaatukaay](https://hal.science/hal-01992863v1)
+- ⏫ 05/2023: [Automatic Spell Checker and Correction for Under-represented Spoken Languages: Case Study on Wolof](https://arxiv.org/abs/2305.12694)
+- ⏫ 05/2024: [Advancing language diversity and inclusion: Towards a neural network-based spell checker and correction for wolof](https://aclanthology.org/2024.rail-1.16/)
+- ⏫ 07/2024: [Beqi: Revitalize the senegalese wolof language with a robust spelling corrector](https://arxiv.org/pdf/2305.08518)
+- 📰🇫🇷 09/2025: [SenTermino - Banque Terminologique Scientifique du Sénégal](https://sentermino.com/fr/)
+- 📰 04/2026: [Soynade Research: Oolel Wolof Spelling Corrector](https://huggingface.co/soynade-research/Oolel-Corrector) 🔃
 
 ### Parsing & Tokenization
 - ⏫ 05/2012: [A Morphological Analyzer For Wolof Using Finite-State Techniques](https://aclanthology.org/L12-1324/)
@@ -62,11 +75,6 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 08/2021: [Multilingual Dependency Parsing for Low-Resource African Languages: Case Studies on Bambara, Wolof, and Yoruba](https://aclanthology.org/2021.iwpt-1.9/)
 - ⏫🌐 07/2025: [Evaluating Morphological Alignment of Tokenizers in 70 Languages](https://arxiv.org/abs/2507.06378)
 
-### Language Identification
-- ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
-- ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
-- ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
-
 ### Linguistic Similarity, Embeddings & Cross-Lingual Transfer
 - ⭐🌐 11/2020: [Extending Multilingual BERT to Low-Resource Languages](https://aclanthology.org/2020.findings-emnlp.240/) 🔃
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
@@ -74,17 +82,11 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 02/2026: [Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1) 🔃
 - ⏫🌐 03/2026: [Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech](https://ai.meta.com/research/publications/omnilingual-sonar-cross-lingual-and-cross-modal-sentence-embeddings-bridging-massively-multilingual-text-and-speech/) 🔃
 
-### Token Classification
-
-#### POS Tagging
-- ⏫ 05/2010: [Design and Development of Part-of-Speech-Tagging Resources for Wolof (Niger-Congo, spoken in Senegal)](https://aclanthology.org/L10-1228/)
-- ⏫🌍 07/2023: [MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages](https://aclanthology.org/2023.acl-long.609/)
-
-#### Named Entity Recognition
-- ⏫🌍 03/2021: [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)
-- ⏫🌍 12/2022: [MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition](https://aclanthology.org/2022.emnlp-main.298/)
-
 ### Text Classification
+#### Language Identification
+- ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
+- ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
+- ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
 
 #### Opinion Mining / Sentiment Analysis
 - ⏫ 06/2018: [A Novel Term Weighting Scheme Model](https://dl.acm.org/doi/10.1145/3233347.3233374)
@@ -104,23 +106,22 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 09/2025: [AbuseBERT-WoFr: refined BERT model for detecting abusive messages on tweets mixing Wolof-French codes](https://hal.science/hal-05249237v1/file/Proceedings%2520of%2520Digital%2520Avenues%2520for%2520Low-Resource%2520Languages%2520of%2520Sub-Saharan%2520Africa%2520%2528DASSA%25E2%2580%25992025%2529.pdf)
     > `Page 10` of the _Proceedings of Digital Avenues for Low-Resource Languages of Sub-Saharan Africa (DASSA’2025)_.
 
+#### Fact Checking
+- ⏫🌍 04/2026: [AfrIFact: Cultural Information Retrieval, Evidence Extraction and Fact Checking for African Languages](https://arxiv.org/abs/2604.00706) 🔃
+
 #### Intent Classification
 - ⏫🌍 02/2025: [INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages](https://arxiv.org/abs/2502.09814)
     > Note: Intent classification is generally performed with slot-filling (which is token classification) as a [joint task](https://arxiv.org/abs/2101.08091) to maximize performance in both tasks simultaneously.
 - ⏫ 09/2025: [WolBanking77: Wolof Banking Speech Intent Classification Dataset](https://arxiv.org/abs/2509.19271)
 
-### Lexicons and Spell Checking
-- ⏫🌐🇫🇷 01/2015: [DILAF : des dictionnaires africains en ligne et une méthodologie](https://hal.science/hal-01107550)
-- ⏫🇫🇷 03/2016: [Dictionnaires wolof en ligne: État de l'art et perspectives](https://hal.science/hal-01294544)
-- ⏫🇫🇷 03/2016: [Production et mise en ligne d’un dictionnaire électronique du wolof](https://talnarchives.atala.org/ateliers/2016/TALAf/10.pdf)
-- ⏫🇫🇷 03/2016: [iBaatukaay : un projet de base lexicale multilingue contributive sur le web à structure pivot pour les langues africaines notamment sénégalaises](https://hal.science/hal-02054921)
-- ⏫🇫🇷 07/2016: [Correction orthographique pour la langue wolof: état de l'art et perspectives](http://hal.science/hal-02054917)
-- ⏫🇫🇷 09/2018: [Manipulation de dictionnaires d'origines diverses pour des langues peu dotées: la méthodologie iBaatukaay](https://hal.science/hal-01992863v1)
-- ⏫ 05/2023: [Automatic Spell Checker and Correction for Under-represented Spoken Languages: Case Study on Wolof](https://arxiv.org/abs/2305.12694)
-- ⏫ 05/2024: [Advancing language diversity and inclusion: Towards a neural network-based spell checker and correction for wolof](https://aclanthology.org/2024.rail-1.16/)
-- ⏫ 07/2024: [Beqi: Revitalize the senegalese wolof language with a robust spelling corrector](https://arxiv.org/pdf/2305.08518)
-- 📰🇫🇷 09/2025: [SenTermino - Banque Terminologique Scientifique du Sénégal](https://sentermino.com/fr/)
-- 📰 04/2026: [Soynade Research: Oolel Wolof Spelling Corrector](https://huggingface.co/soynade-research/Oolel-Corrector) 🔃
+### Token Classification
+#### POS Tagging
+- ⏫ 05/2010: [Design and Development of Part-of-Speech-Tagging Resources for Wolof (Niger-Congo, spoken in Senegal)](https://aclanthology.org/L10-1228/)
+- ⏫🌍 07/2023: [MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages](https://aclanthology.org/2023.acl-long.609/)
+
+#### Named Entity Recognition
+- ⏫🌍 03/2021: [MasakhaNER: Named Entity Recognition for African Languages](https://aclanthology.org/2021.tacl-1.66/)
+- ⏫🌍 12/2022: [MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition](https://aclanthology.org/2022.emnlp-main.298/)
 
 ### Machine Translation
 - ⏫ 03/2020: [Using LSTM Networks to Translate French to Senegalese Local Languages: Wolof as a Case Study](https://arxiv.org/abs/2004.13840)
@@ -146,7 +147,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://aclanthology.org/2026.africanlp-main.30/) 🔃
 - ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/) 🔃
 
-### Question Answering and Dialogue Systems [+LLMs]
+### Question Answering & Dialogue Systems [+LLMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
 - ⏫🇫🇷 06/2022: [Preuve de concept d’un bot vocal dialoguant en wolof (Proof-of-Concept of a Voicebot Speaking Wolof)](https://aclanthology.org/2022.jeptalnrecital-taln.40/)
 - ⭐🌐 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) 🔃
@@ -175,14 +176,13 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 09/2025: [MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning](https://arxiv.org/abs/2509.08105) 🔃
 - 📰🌐 02/2026: [Tiny AYA: Making Multilingual AI Accessible](https://cohere.com/blog/cohere-labs-tiny-aya) 🔃
 
-### Pre-training corpus
+#### Pre-training Corpus
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
 
 
 ### Speech Processing
-
 #### Automatic Speech Recognition (ASR)
 - ⏫ 04/2011: [Speech Recognition and Text-to-speech Solution for Vernacular Languages](https://personales.upv.es/thinkmind/dl/conferences/icdt/icdt_2011/icdt_2011_3_30_20061.pdf)
 - ⏫🌐 09/2015: [Speech Technologies for African Languages: Example of a Multilingual Calculator for Education](https://hal.science/hal-01170505/)
