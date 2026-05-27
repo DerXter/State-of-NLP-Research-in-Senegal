@@ -138,6 +138,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 03/2023: [Kàllaama NMT: un ensemble d'outils IA pour rendre le numérique plus inclusif en Afrique](https://youtu.be/P5PRgugOu8o?t=117)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - 📰🌐 06/2024: [110 new languages are coming to Google Translate](https://blog.google/products/translate/google-translate-new-languages-2024/)
+- ⏫🌐 08/2024: [Toucan: Many-to-Many Translation for 150 African Language Pairs](https://aclanthology.org/2024.findings-acl.781/) 🔃
 - 📰 12/2024: [LAfricaMobile NMT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/)
 - ⭐⏫ 02/2025: [SMOL: Professionally translated parallel data for 115 under-represented languages](https://arxiv.org/abs/2502.12301)
 - 📰🌐 11/2025: [Wolof among supported languages in DeepL](https://support.deepl.com/hc/en-us/articles/360019925219-DeepL-Translator-languages)
