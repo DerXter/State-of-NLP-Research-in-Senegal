@@ -77,6 +77,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 
 ### Linguistic Similarity, Embeddings & Cross-Lingual Transfer
 - ⭐🌐 11/2020: [Extending Multilingual BERT to Low-Resource Languages](https://aclanthology.org/2020.findings-emnlp.240/) 🔃
+- ⭐🌐 12/2022: [Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages](https://aclanthology.org/2022.findings-emnlp.154/) 🔃
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
 - ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
 - ⏫ 02/2026: [Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1) 🔃
