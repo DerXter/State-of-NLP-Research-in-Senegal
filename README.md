@@ -221,6 +221,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 11/2025: [Voice of a Continent: Mapping Africa’s Speech Technology Frontier](https://aclanthology.org/2025.emnlp-main.559/) 🔃
 - 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof) 🔃
 - 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench) 🔃
+- 📰🌍 07/2026: [Sunbird AI - Whisper large for 51 African languages](https://huggingface.co/Sunbird/asr-whisper-51-african-languages) 🔃
 
 #### Speech Synthesis / Text To Speech (TTS)
 - ⏫ 04/2011: [Speech Recognition and Text-to-speech Solution for Vernacular Languages](https://personales.upv.es/thinkmind/dl/conferences/icdt/icdt_2011/icdt_2011_3_30_20061.pdf)
