@@ -24,14 +24,14 @@ Finally, since Senegal is a French-speaking country, some of the articles were w
 
 ----
 
-## Datasets 🔃
+## Datasets
 - The [Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data) repository tracks and centralizes all `openly accessible datasets` as well as potential `data sources` on the `Wolof` language.
 - We extended this Wolof repository to the `other 05 national languages` in the [Datasets](Datasets.md) file.
 
 ## NLP Tools
 |Name|Covered tasks |Languages supported|
 |----------|-----------|----------------|
-|[Wolof keyboards](https://github.com/srheal/Wol_Keyboards) | Keyboards for MacOS, Android and Apple mobile | Wolof    |
+|[Wolof Keyboard](https://github.com/samuelbenga/wolof-keyboard), [Wol_Keyboards](https://github.com/srheal/Wol_Keyboards) | Keyboards for MacOS, Android and Apple mobile | Wolof    |
 |[Stanza](https://stanfordnlp.github.io/stanza/) ([Qi et al., 2020](https://arxiv.org/abs/2003.07082))    | Part-Of-Speech (POS) and Morphological features tagging dependency parsing| Wolof    |
 |[MorphScore](https://github.com/catherinearnett/morphscore) ([Arnett et al., 2025](https://arxiv.org/abs/2507.06378))    |   Morphological alignment evaluation      |   Wolof     |
 |[Wolof](https://github.com/abdouaziz/wolof)| *Fill_mask* (Masked Language Modeling)|   Wolof             |
@@ -60,7 +60,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 05/2024: [Advancing language diversity and inclusion: Towards a neural network-based spell checker and correction for wolof](https://aclanthology.org/2024.rail-1.16/)
 - ⏫ 07/2024: [Beqi: Revitalize the senegalese wolof language with a robust spelling corrector](https://arxiv.org/pdf/2305.08518)
 - 📰🇫🇷 09/2025: [SenTermino - Banque Terminologique Scientifique du Sénégal](https://sentermino.com/fr/)
-- 📰 04/2026: [Soynade Research: Oolel Wolof Spelling Corrector](https://huggingface.co/soynade-research/Oolel-Corrector) 🔃
+- 📰 04/2026: [Soynade Research: Oolel Wolof Spelling Corrector](https://huggingface.co/soynade-research/Oolel-Corrector)
 
 ### Parsing & Tokenization
 - ⏫ 05/2012: [A Morphological Analyzer For Wolof Using Finite-State Techniques](https://aclanthology.org/L12-1324/)
@@ -76,18 +76,18 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 07/2025: [Evaluating Morphological Alignment of Tokenizers in 70 Languages](https://arxiv.org/abs/2507.06378)
 
 ### Linguistic Similarity, Embeddings & Cross-Lingual Transfer
-- ⭐🌐 11/2020: [Extending Multilingual BERT to Low-Resource Languages](https://aclanthology.org/2020.findings-emnlp.240/) 🔃
-- ⭐🌐 12/2022: [Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages](https://aclanthology.org/2022.findings-emnlp.154/) 🔃
+- ⭐🌐 11/2020: [Extending Multilingual BERT to Low-Resource Languages](https://aclanthology.org/2020.findings-emnlp.240/)
+- ⭐🌐 12/2022: [Bitext Mining Using Distilled Sentence Representations for Low-Resource Languages](https://aclanthology.org/2022.findings-emnlp.154/)
 - ⭐🌐 07/2025: [Analyzing the Effect of Linguistic Similarity on Cross-Lingual Transfer: Tasks and Experimental Setups Matter](https://aclanthology.org/2025.findings-acl.454/)
 - ⏫🌐 01/2026: [Can Embedding Similarity Predict Cross-Lingual Transfer? A Systematic Study on African Languages](https://arxiv.org/abs/2601.03168)
-- ⏫ 02/2026: [Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1) 🔃
-- ⏫🌐 03/2026: [Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech](https://ai.meta.com/research/publications/omnilingual-sonar-cross-lingual-and-cross-modal-sentence-embeddings-bridging-massively-multilingual-text-and-speech/) 🔃
+- ⏫ 02/2026: [Cross-lingual Matryoshka Representation Learning across Speech and Text](https://arxiv.org/abs/2602.19991v1)
+- ⏫🌐 03/2026: [Omnilingual SONAR: Cross-Lingual and Cross-Modal Sentence Embeddings Bridging Massively Multilingual Text and Speech](https://ai.meta.com/research/publications/omnilingual-sonar-cross-lingual-and-cross-modal-sentence-embeddings-bridging-massively-multilingual-text-and-speech/)
 
 ### Text Classification
 #### Language Identification
 - ⏫🌍 10/2022: [AfroLID: A Neural Language Identification Tool for African Languages](https://arxiv.org/abs/2210.11744)
 - ⭐🌐 12/2023: [GlotLID: Language Identification for Low-Resource Languages](https://aclanthology.org/2023.findings-emnlp.410/)
-- ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1) 🔃
+- ⏫🌍 01/2026: [AfroScope: A Framework for Studying the Linguistic Landscape of Africa](https://arxiv.org/abs/2601.13346v1)
 
 #### Opinion Mining / Sentiment Analysis
 - ⏫ 06/2018: [A Novel Term Weighting Scheme Model](https://dl.acm.org/doi/10.1145/3233347.3233374)
@@ -108,7 +108,7 @@ For some articles, we were also unable to find open versions highlighted by the 
     > `Page 10` of the _Proceedings of Digital Avenues for Low-Resource Languages of Sub-Saharan Africa (DASSA’2025)_.
 
 #### Fact Checking
-- ⏫🌍 04/2026: [AfrIFact: Cultural Information Retrieval, Evidence Extraction and Fact Checking for African Languages](https://arxiv.org/abs/2604.00706) 🔃
+- ⏫🌍 04/2026: [AfrIFact: Cultural Information Retrieval, Evidence Extraction and Fact Checking for African Languages](https://arxiv.org/abs/2604.00706)
 
 #### Intent Classification
 - ⏫🌍 02/2025: [INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages](https://arxiv.org/abs/2502.09814)
@@ -139,44 +139,44 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 03/2023: [Kàllaama NMT: un ensemble d'outils IA pour rendre le numérique plus inclusif en Afrique](https://youtu.be/P5PRgugOu8o?t=117)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - 📰🌐 06/2024: [110 new languages are coming to Google Translate](https://blog.google/products/translate/google-translate-new-languages-2024/)
-- ⏫🌐 08/2024: [Toucan: Many-to-Many Translation for 150 African Language Pairs](https://aclanthology.org/2024.findings-acl.781/) 🔃
+- ⏫🌐 08/2024: [Toucan: Many-to-Many Translation for 150 African Language Pairs](https://aclanthology.org/2024.findings-acl.781/)
 - 📰 12/2024: [LAfricaMobile NMT](https://www.thd.tn/lafricamobile-lance-une-intelligence-artificielle-capable-de-traduire-du-francais-vers-le-wolof-le-bambara-et-dioula/)
 - ⭐⏫ 02/2025: [SMOL: Professionally translated parallel data for 115 under-represented languages](https://arxiv.org/abs/2502.12301)
 - 📰🌐 11/2025: [Wolof among supported languages in DeepL](https://support.deepl.com/hc/en-us/articles/360019925219-DeepL-Translator-languages)
 - 📰 12/2025: [GalsenAI French-Wolof Translator](https://github.com/Galsenaicommunity/Wolof-NMT)
 - 📰 11/2025: [CLAD FirilMa Traducteur](https://cladfirilma.ucad.sn/)
 - ⏫🌐 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
-- ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://aclanthology.org/2026.africanlp-main.30/) 🔃
-- ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/) 🔃
+- ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://aclanthology.org/2026.africanlp-main.30/)
+- ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/)
 
 ### Question Answering & Dialogue Systems [+LLMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
 - ⏫🇫🇷 06/2022: [Preuve de concept d’un bot vocal dialoguant en wolof (Proof-of-Concept of a Voicebot Speaking Wolof)](https://aclanthology.org/2022.jeptalnrecital-taln.40/)
-- ⭐🌐 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) 🔃
+- ⭐🌐 11/2022: [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100)
 - ⭐🌍 12/2022: [AfroLM: A Self-Active Learning-based Multilingual Pretrained Language Model for 23 African Languages](https://aclanthology.org/2022.sustainlp-1.11/)
 - 📰 03/2023: [Local Partnership Launches Digital Health Tool to Decrease Hypertension in Senegal](https://www.intrahealth.org/news/local-partnership-launches-digital-health-tool-decrease-hypertension-senegal)
     > More info on: https://saytutension.sante.sn.
 - ⏫🌍 05/2023: [AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://arxiv.org/abs/2305.06897)
-- ⏫ 06/2023: [Design, development and usability of an educational AI chatbot for People with Haemophilia in Senegal](https://onlinelibrary.wiley.com/doi/10.1111/hae.14815) 🔃
+- ⏫ 06/2023: [Design, development and usability of an educational AI chatbot for People with Haemophilia in Senegal](https://onlinelibrary.wiley.com/doi/10.1111/hae.14815)
 - ⏫🌍 07/2023: [SERENGETI: Massively Multilingual Language Models for Africa](https://aclanthology.org/2023.findings-acl.97/)
-- ⏫🌍 01/2024: [Cheetah: Natural Language Generation for 517 African Languages](https://aclanthology.org/2024.acl-long.691/) 🔃
+- ⏫🌍 01/2024: [Cheetah: Natural Language Generation for 517 African Languages](https://aclanthology.org/2024.acl-long.691/)
 - ⏫🌍 06/2024: [IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://arxiv.org/abs/2406.03368)
-- ⏫🌐 06/2024: [Fumbling in Babel: An Investigation into ChatGPT’s Language Identification Ability](https://aclanthology.org/2024.findings-naacl.274/) 🔃
+- ⏫🌐 06/2024: [Fumbling in Babel: An Investigation into ChatGPT’s Language Identification Ability](https://aclanthology.org/2024.findings-naacl.274/)
 - ⭐🌐 08/2024: [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://aclanthology.org/2024.acl-long.620/)
     > Wolof was the additional language in the Aya dataset that had to be excluded from training [(Üstün et al., 2024)](https://arxiv.org/abs/2402.07827).
 - ⏫🌐 08/2024: [The Belebele Benchmark: a Parallel Reading Comprehension Dataset in 122 Language Variants](https://aclanthology.org/2024.acl-long.44/)
-- ⏫🌐 08/2024: [Goldfish: Monolingual Language Models for 350 Languages](https://arxiv.org/abs/2408.10441) 🔃
+- ⏫🌐 08/2024: [Goldfish: Monolingual Language Models for 350 Languages](https://arxiv.org/abs/2408.10441)
 - ⏫ 01/2025: [Task-Oriented Dialog Systems for the Senegalese Wolof Language](https://aclanthology.org/2025.coling-main.322/)
 - ⏫🌐🔐 01/2025: [A Comprehensive Von Willebrand Disease Awareness and Support Chatbot for Senegalese Communities](https://ieeexplore.ieee.org/abstract/document/10992905)
 - 📰 12/2024: [AWA: Senegalese start-up's AI muse speaks in Wolof](https://www.trtafrika.com/english/article/18244712)
     > A subsequent [Awa-Milkyway](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAADONOG0B7Ul4mepy1frBb_X8AAlK0EJL-44%22%5D&keywords=milkyway&origin=FACETED_SEARCH&sid=28d) model has also been announced but not published since then.
 - 📰 01/2025: [Oolel: A High-Performing Open LLM for Wolof](https://huggingface.co/soynade-research/Oolel-v0.1)
-- ⏫🌐 04/2025: [MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768) 🔃
+- ⏫🌐 04/2025: [MultiBLiMP 1.0: A Massively Multilingual Benchmark of Linguistic Minimal Pairs](https://arxiv.org/abs/2504.02768)
 - ⏫🌍 06/2025: [The State of Large Language Models for African Languages: Progress and Challenges](https://arxiv.org/abs/2506.02280) 
     > Reports that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
 - ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
-- ⏫🌐 09/2025: [MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning](https://arxiv.org/abs/2509.08105) 🔃
-- 📰🌐 02/2026: [Tiny AYA: Making Multilingual AI Accessible](https://cohere.com/blog/cohere-labs-tiny-aya) 🔃
+- ⏫🌐 09/2025: [MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning](https://arxiv.org/abs/2509.08105)
+- 📰🌐 02/2026: [Tiny AYA: Making Multilingual AI Accessible](https://cohere.com/blog/cohere-labs-tiny-aya)
 
 #### Pre-training Corpus
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
@@ -218,10 +218,10 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫ 09/2025: [WolBanking77: Wolof Banking Speech Intent Classification Dataset](https://arxiv.org/abs/2509.19271)
 - ⏫ 09/2025: [Speech Language Models for Under-Represented Languages: Insights from Wolof](https://arxiv.org/abs/2509.15362)
 - ⏫🌐 11/2025: [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/)
-- ⏫🌐 11/2025: [Voice of a Continent: Mapping Africa’s Speech Technology Frontier](https://aclanthology.org/2025.emnlp-main.559/) 🔃
-- 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof) 🔃
-- 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench) 🔃
-- 📰🌍 07/2026: [Sunbird AI - Whisper large for 51 African languages](https://huggingface.co/Sunbird/asr-whisper-51-african-languages) 🔃
+- ⏫🌐 11/2025: [Voice of a Continent: Mapping Africa’s Speech Technology Frontier](https://aclanthology.org/2025.emnlp-main.559/)
+- 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof)
+- 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench)
+- 📰🌍 07/2026: [Sunbird AI - Whisper large for 51 African languages](https://huggingface.co/Sunbird/asr-whisper-51-african-languages)
 
 #### Speech Synthesis / Text To Speech (TTS)
 - ⏫ 04/2011: [Speech Recognition and Text-to-speech Solution for Vernacular Languages](https://personales.upv.es/thinkmind/dl/conferences/icdt/icdt_2011/icdt_2011_3_30_20061.pdf)
@@ -232,8 +232,8 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 12/2024: [LAfricaMobile TTS](https://lafricamobile.com/en/produit-tts/)
 - 📰 02/2025: [Adia_TTS Wolof](https://huggingface.co/CONCREE/Adia_TTS)
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
-- 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices) 🔃
-- ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2) 🔃
+- 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices)
+- ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)
 
 #### Spoken Dialogue Systems
 ##### Spoken Language Understanding (SLU)
