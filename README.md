@@ -182,6 +182,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
+- 📰 02/2026: [FineWeb-Wolof-50k (Synthetic Corpus)](https://huggingface.co/datasets/soynade-research/FineWeb2-HQ-50k-Wolof)
 
 
 ### Speech Processing
