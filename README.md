@@ -182,7 +182,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
 - ⭐🌐 09/2023: [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset](https://arxiv.org/abs/2309.04662)
 - ⏫🌐 06/2025: [FineWeb2: One Pipeline to Scale Them All -- Adapting Pre-Training Data Processing to Every Language](https://arxiv.org/abs/2506.20920)
-- 📰 02/2026: [FineWeb-Wolof-50k (Synthetic Corpus)](https://huggingface.co/datasets/soynade-research/FineWeb2-HQ-50k-Wolof)
+- 📰 02/2026: [FineWeb Wolof 50k (Synthetic Corpus)](https://huggingface.co/datasets/soynade-research/FineWeb2-HQ-50k-Wolof)
 
 
 ### Speech Processing
@@ -223,6 +223,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof)
 - 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench)
 - 📰🌍 07/2026: [Sunbird AI - Whisper large for 51 African languages](https://huggingface.co/Sunbird/asr-whisper-51-african-languages)
+- 📰🌍 08/2026: [Rule-based grapheme-to-phoneme (G2P) for 400+ African languages](https://github.com/AfriSpeech/africa-g2p)
 - 📰 08/2026: [M-Kiriku ASR: Multilingual Speech Recognition for Senegal](https://huggingface.co/AIHubSN/M-Kiriku-ASR)
 - 📰 08/2026: [Kiriku ASR: Breaking the Silence for Wolof](https://huggingface.co/AIHubSN/Kiriku-Wolof-ASR)
 
@@ -237,6 +238,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
 - 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices)
 - ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)
+- 📰🌍 08/2026: [Rule-based grapheme-to-phoneme (G2P) for 400+ African languages](https://github.com/AfriSpeech/africa-g2p)
 - 📰 08/2026: [Kiriku Wolof TTS](https://huggingface.co/AIHubSN/Kiriku-Wolof-TTS)
 - 📰 08/2026: [Kiriku Pulaar TTS](https://huggingface.co/AIHubSN/Kiriku-Pulaar-TTS)
 
