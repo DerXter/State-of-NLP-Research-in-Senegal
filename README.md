@@ -236,6 +236,8 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
 - 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices)
 - ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)
+- 📰 08/2026: [Kiriku Wolof TTS](https://huggingface.co/AIHubSN/Kiriku-Wolof-TTS)
+- 📰 08/2026: [Kiriku Pulaar TTS](https://huggingface.co/AIHubSN/Kiriku-Pulaar-TTS)
 
 #### Spoken Dialogue Systems
 ##### Spoken Language Understanding (SLU)
