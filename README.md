@@ -176,7 +176,7 @@ For some articles, we were also unable to find open versions highlighted by the 
     > Reports that `AfriTeva` and `AfroXLMR` support Wolof but it's not the case, might be a mistake.
 - ⏫🌐 07/2025: [Where Are We? Evaluating LLM Performance on African Languages](https://aclanthology.org/2025.acl-long.1572/)
 - ⏫🌐 09/2025: [MERLIN: Multi-Stage Curriculum Alignment for Multilingual Encoder-LLM Integration in Cross-Lingual Reasoning](https://arxiv.org/abs/2509.08105)
-- 📰🌐 02/2026: [Tiny AYA: Making Multilingual AI Accessible](https://cohere.com/blog/cohere-labs-tiny-aya)
+- ⏫🌐 03/2026: [Tiny AYA: Bridging Scale and Multilingual Depth](https://arxiv.org/abs/2603.11510)
 
 #### Pre-training Corpus
 - ⭐🌐 01/2022: [Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00447/109285/Quality-at-a-Glance-An-Audit-of-Web-Crawled)
@@ -221,6 +221,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 11/2025: [Omnilingual ASR: Open-Source Multilingual Speech Recognition for 1600+ Languages](https://ai.meta.com/research/publications/omnilingual-asr-open-source-multilingual-speech-recognition-for-1600-languages/)
 - ⏫🌐 11/2025: [Voice of a Continent: Mapping Africa’s Speech Technology Frontier](https://aclanthology.org/2025.emnlp-main.559/)
 - 📰🌐 12/2025: [ElevenLabs' Scribe v2: Wolof Speech to Text Transcription](https://elevenlabs.io/speech-to-text/wolof)
+- ⏫🌍 02/2026: [WAXAL: A Large-Scale Multilingual African Language Speech Corpus](https://arxiv.org/abs/2602.02734)
 - 📰🌍 02/2026: [PazaBench: ASR leaderboard for low-resource languages](https://huggingface.co/spaces/microsoft/paza-bench)
 - 📰🌍 07/2026: [Sunbird AI - Whisper large for 51 African languages](https://huggingface.co/Sunbird/asr-whisper-51-african-languages)
 - 📰🌍 08/2026: [Rule-based grapheme-to-phoneme (G2P) for 400+ African languages](https://github.com/AfriSpeech/africa-g2p)
@@ -236,6 +237,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - 📰 12/2024: [LAfricaMobile TTS](https://lafricamobile.com/en/produit-tts/)
 - 📰 02/2025: [Adia_TTS Wolof](https://huggingface.co/CONCREE/Adia_TTS)
 - 📰 06/2025: [TTS-WOLOF : Building Inclusive Voice AI for African Languages – The Wolof Case](https://ascii.org.sn/index.php/cnria-2025)
+- ⏫🌍 02/2026: [WAXAL: A Large-Scale Multilingual African Language Speech Corpus](https://arxiv.org/abs/2602.02734)
 - 📰 03/2026: [Oolel-Voice: a high-quality text-to-speech model purpose-built for Wolof](https://huggingface.co/soynade-research/Oolel-Voices)
 - ⏫🌍 04/2026: [OmniVoice: Towards Omnilingual Zero-Shot Text-to-Speech with Diffusion Language Models](https://arxiv.org/abs/2604.00688v2)
 - 📰🌍 08/2026: [Rule-based grapheme-to-phoneme (G2P) for 400+ African languages](https://github.com/AfriSpeech/africa-g2p)
