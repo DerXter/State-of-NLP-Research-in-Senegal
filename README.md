@@ -148,6 +148,7 @@ For some articles, we were also unable to find open versions highlighted by the 
 - ⏫🌐 01/2026: [TranslateGemma Technical Report](https://arxiv.org/abs/2601.09012)
 - ⏫🌐 01/2026: [AfriNLLB: Efficient Translation Models for African Languages](https://aclanthology.org/2026.africanlp-main.30/)
 - ⏫🌐 03/2026: [Omnilingual MT: Machine Translation for 1,600 Languages](https://ai.meta.com/research/publications/omnilingual-mt-machine-translation-for-1600-languages/)
+- 📰 06/2026: [MudawanSn: A Gold-Standard Wolof--Arabic Parallel Corpus for Machine Translation](https://huggingface.co/datasets/mbaye930/wolof-arabic-parallel-corpus)
 
 ### Question Answering & Dialogue Systems [+LLMs]
 - ⏫🌍 05/2022: [AfriWOZ: Corpus for Exploiting Cross-Lingual Transfer for Dialogue Generation in Low-Resource, African Languages](https://arxiv.org/abs/2204.08083)
